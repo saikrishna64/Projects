@@ -1,2 +1,2 @@
 # Projects
-Car price prediction using regression
+<h1> Car price prediction using regression</h1>
